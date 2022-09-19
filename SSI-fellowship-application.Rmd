@@ -1,0 +1,137 @@
+---
+title: "SSI Fellowship Application"
+author: "Flic Anderson"
+date: "19/09/2022"
+output: 
+  ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+      $('slide:not(.title-slide, .backdrop, .segue)').append('<footer label=\"bit.ly/TODO"></footer>');    
+    })
+</script>
+
+<style>
+  footer:after {
+    content: attr(label);
+    font-size: 12pt;
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+    line-height: 1.9;
+  }
+</style>
+
+<style type="text/css">
+slides > slide:not(.nobackground):after {
+  content: '';
+}
+</style>
+
+<div class="notes">
+
+Bio: 
+
+Currently a PhD Researcher at EPCC, School of Informatics, at the University of Edinburgh. 
+TODO Research Project:
+
+Flic Anderson has been a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. 
+
+Flic was part of the development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working with colleagues from EPCC (University of Edinburgh) to make the codebase more robust & sustainable.   
+
+With a background in Ecology and Botany (previously a Research Assistant at the Royal Botanic Garden Edinburgh), Flic has worked with a wide range of types of biological data using different software tools and programming languages (particularly R) for the last 8 years, and found herself drawn towards bioinformatics and research software engineering. 
+
+Flic is a member of the Edinburgh Carpentries and a certified Carpentries instructor in foundational coding and data science skills for researchers. 
+
+
+Title: 
+
+SSI Fellowship Application. 
+
+
+Abstract:  
+
+
+
+</div>
+
+
+## HOW TO (RE-)USE THIS MATERIAL
+
+This is a `.html` presentation created in `R Markdown` with `ioslides`. 
+
+(It's been written in a [.Rmd](http://rmarkdown.rstudio.com) file, and I generated .html slides by 'knitting' it in Rstudio.)
+
+You can check out the code used to make these slides at the [Talk repo](https://github.com/FlicAnderson/TODO) on Github, and adapt it for your own presentations if you like - there's a MIT Licence on the repo, which means: 
+
+*"Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source."*
+
+Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
+
+
+
+# SSI Fellowship Application   
+
+## Me!
+
+<div style="float: left; width: 30%;">
+```{r, out.width = "300"}
+knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/EdinbR-20210519/main/images/Me.jpg")
+```  
+
+[GitHub](https://github.com/FlicAnderson), [Twitter](https://twitter.com/Flic_Anderson), [LinkedIn](https://www.linkedin.com/in/flicanderson/)
+</div>
+
+<div style="float: right; width: 55%;">
+### Felicity 'Flic' Anderson  
+
+* TODO
+* **developer** on riboviz project  - _my first project coding in a team_ 
+* certified **Carpentries instructor** (foundational data, software & coding courses)
+* background mainly in **R**, some SQL & Bash, new-ish to Python
+</div>
+
+<div class="notes"> 
+
+https://raw.githubusercontent.com/FlicAnderson/EdinbR-20210519/main/images/Me.jpg
+
+https://edcarp.github.io/ - Edinburgh Carpentries, local chapter of The Carpentries organisation (https://carpentries.org/)
+</div>
+
+
+
+# Outline: 
+
+## Outline: 
+
+* Who am I  
+* What I do  
+* My plans for the Fellowship 
+
+
+
+# Me!
+
+## Who am I  
+
+## What I do  
+
+
+
+# What I Want To Do... 
+
+## My plans for the Fellowship 
+
+
+<div class="notes">
+
+... 
+
+</div>
