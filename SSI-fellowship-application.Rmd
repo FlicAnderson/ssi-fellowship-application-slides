@@ -43,7 +43,6 @@ Currently a PhD Researcher at EPCC, School of Informatics, at the University of 
 TODO Research Project:
 
 Flic Anderson has been a Research Assistant in Bioinformatics in the Wallace Lab (within the Institute for Cell Biology) at the University of Edinburgh. 
-
 Flic was part of the development team for the 'riboviz' open source software package for processing and analysis of ribosome profiling data, working with colleagues from EPCC (University of Edinburgh) to make the codebase more robust & sustainable.   
 
 With a background in Ecology and Botany (previously a Research Assistant at the Royal Botanic Garden Edinburgh), Flic has worked with a wide range of types of biological data using different software tools and programming languages (particularly R) for the last 8 years, and found herself drawn towards bioinformatics and research software engineering. 
@@ -121,6 +120,8 @@ https://edcarp.github.io/ - Edinburgh Carpentries, local chapter of The Carpentr
 
 ## Who am I  
 
+TODO: * edinburgh-based but aware of the need to look wider
+
 ## What I do  
 
 
@@ -129,6 +130,136 @@ https://edcarp.github.io/ - Edinburgh Carpentries, local chapter of The Carpentr
 
 ## My plans for the Fellowship 
 
+ - Identify 
+ - Connect 
+ - Engage
+
+
+# Scottish RSE community - (Under development...)
+
+<div class="notes">
+
+There's the makings of a community, but it's not yet self-sustaining. A lot of people still don't know what RSE stands for, or whether they are one. Most people who probably meet the definition, might not know it!  
+
+There are also lots of groups which are really valuable and relevant to giving folks the skills, knowledge and confidence they need to become fully-fledged RSEs, but they don't know that's what they're doing! 
+
+We have the makings of a good foundation for a Scottish RSE community, but at the moment, it's shoogle-y. 
+
+This fellowship plans to help RSE-related groups that are the foundation of our emerging ScotRSE community improve their sustainability, and to create opportunities to form connections between similar organisations, and to build networks that will help strengthen the ability of these groups to keep demonstrating best practices in RSE-related areas and growing the skills of current and future RSEs.
+
+</div>
+
+
+
+
+
+# Identify
+
+## Identify
+
+PROBLEM: difficult to identify relevant groups which help RSEs get the skills and development they need and join local communities of best practice... 
+
+SOLUTION: fellowship will identify active RSE-related groups and organisations and put together a curated list.  
+
+
+## Identify 
+
+RSE-related groups and organisations who support the professional and technical 
+development of RSEs 
+
+This might include: 
+ - user groups for software, languages or technologies (Python Users, Linux Users, Scotland Data Science & Tech, AI Scotland, Scotland Open Source Users, PyData, C++ Edinburgh, etc...) 
+ - other non-tech skills (ReproducibiliTea reproducibility & open research group, Royal Statistical Society Edinburgh)
+ - training focused groups (Edinburgh Carpentries, Geosciences Coding Club Edinburgh)
+ - groups catering for specific underrepresented groups (Women Who Code, Queer Code Scotland, R-Ladies, Equate Scotland, the DataKirk)
+ - local community groups (this might include local RSE groups based in unis (e.g St. Andrews RSEs) or specific areas (CERSE - Community of Edinburgh RSEs)) 
+ - 'umbrella stakeholders' such as RSE Society and SSI. 
+ (...these examples taken from personal experience, and a quick google. Not a representative selection!)
+ 
+
+Finding these groups can take a lot of effort (looking on meetup.com, searching eventbrite, joining mailing lists, word of mouth recommendations from colleagues, interesting blogpost rabbit-holes, twitter posts and follower lists, meeting group representatives at conferences...).
+
+Once you find them, sometimes it's hard to tell if they're still active and running events... 
+
+
+<div class="notes">
+
+SPECIFIC: 
+
+Identify 20+ currently active RSE-relevant groups or organisations in Scotland (including Scottish chapters / groups of larger national or international organisations or groups) which will help underpin the development of the current RSEs and will help lay the foundations for a stable Scottish RSE community of practice. 
+
+
+MEASURABLE:
+
+Aiming to identify at least:    
+ - 5 language/technology-specific user groups   
+ - 3 non-tech skills such as stats, research skills, research communication/outreach etc.   
+ - 3 training-focused groups   
+ - 3 groups supporting underrepresented groups within RSE/RSE-related areas   
+ - 3 local community groups   
+ - 3 'umbrella stakeholders' groups  
+ 
+There will likely be some overlap between categories, but this should give an achievable target and the categories will help to ensure there's a diversity of purposes and approaches represented by participating groups. 
+
+Create a curated list of these groups, collating information on their aims, links to their website or other digital organisation infrastructure (meetups page, eventbrite page, social media accounts, etc), and create this as an editable online web resource. 
+
+This curated list page could be published as an SSI blog post initially, but the information could also ultimately be linked to or sit within a Scottish RSE community website in the longer term. 
+
+Contact information for each identified active group will be gathered separately (not for publication, as this information is likely to change and is also commonly available for each group), to allow me to contact the group organisers to engage with them during the fellowship. 
+
+ACHIEVABLE: 
+
+This is a fact finding and information collation exercise initially, and I plan to ask each contacted group organiser about other groups they'd consider to be relevant, as their networks are likely to reach groups I might not otherwise find.  
+
+I plan to search relevant / suggested group information in services like meetups.com, which is commonly used by some groups, and use twitter follower networks to identify other groups. 
+
+As part of a developing effort to establish a Scottish RSE community, I'm connected with established Scotland-based RSEs who will also be able to recommend relevant or key groups and stakeholders that I might have missed. 
+
+
+RELEVANT: 
+
+Many groups without 'RSE' in the title are critical to the development of RSE skills and professional development. This will find key groups in order to help make them more visible to the emerging Scottish RSE community, and to help facilitate long term engagement and network building.
+
+TIME-BOUND: 
+
+This stage of the fellowship will run from months 1-6.  
+
+</div>
+
+
+
+
+
+
+# Connect 
+
+
+## Connect
+PROBLEM: 
+
+SOLUTION: 
+
+<div class="notes">
+
+... 
+
+</div>
+
+
+
+
+
+# Engage
+
+
+## Engage 
+
+PROBLEM: organisers of RSE-relevant groups face many challenges in keeping them running long-term. They might struggle with organiser turnover, lack of resources, difficulty in sourcing speakers, or issues relating to attendance levels. Many of these groups are likely to have faced similar challenges, but are unlikely to have had an opportunity to share and discuss these with other organisers, or to identify opportunities to work with other organisers to solve them. 
+
+SOLUTION: fellowship will organise and facilitate a stakeholder participation workshop with group organisers to identify common problems and challenges in maintaining group stability and sustainability. 
+After reporting the findings on these challenges, a subsequent workshop session will be run to enable stakeholders to identify potential solutions - sharing how each group may have attempted to mitigate these challenges or successfully resolved them, as well as focusing on ways this could be attempted in future. 
+The report from this second workshop will collect these potential solutions, as well as highlighting any areas in which groups could work together to resolve problems.
+The findings of both workshops will be reported to all selected groups, whether or not they engaged in the participatory workshops. 
 
 <div class="notes">
 
