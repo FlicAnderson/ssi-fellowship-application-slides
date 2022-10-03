@@ -76,7 +76,31 @@ Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
 
 
 
-# SSI Fellowship Application   
+# SSI Fellowship Application 2023: 
+Scottish RSEcosystem Network
+
+
+## Outline: 
+
+* Who am I  
+* What I do  
+* My plans for the Fellowship 
+
+
+
+# About me
+
+## Who am I  
+
+TODO: * edinburgh-based but aware of the need to look wider
+
+* ecology 
+* botany 
+* field work 
+* participatory workshops in sustainability projects for Afghanistan 
+* developed M&E plans for DEFRA funded sustainability projects
+
+
 
 ## Me!
 
@@ -91,47 +115,60 @@ knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/EdinbR-2
 <div style="float: right; width: 55%;">
 ### Felicity 'Flic' Anderson  
 
-* TODO
-* **developer** on riboviz project  - _my first project coding in a team_ 
-* certified **Carpentries instructor** (foundational data, software & coding courses)
-* background mainly in **R**, some SQL & Bash, new-ish to Python
+* Ecology (BSc *hons*) & Botany (MSc) at University of Edinburgh.
+* Research Assistant for 8 years at [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/) 
+* Research Assistant in Bioinformatics for 2 years at [Wallace Lab](https://ewallace.github.io/), University of Edinburgh  
+* Member of Society of Research Software Engineering 
+
 </div>
+
+<div class="notes"> 
+...
+</div>
+
+
+## Me!
+
+<div style="float: left; width: 30%;">
+```{r, out.width = "300"}
+knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/EdinbR-20210519/main/images/Me.jpg")
+```  
+
+[GitHub](https://github.com/FlicAnderson), [Twitter](https://twitter.com/Flic_Anderson), [LinkedIn](https://www.linkedin.com/in/flicanderson/)
+</div>
+
+<div style="float: right; width: 55%;">
+* certified [Carpentries](https://carpentries.org/) instructor (delivering foundational data, software & coding courses) 
+* supervised several undergrad & masters students on open source research software ['riboviz'](https://github.com/riboviz/riboviz) project
+* outreach projects such as [4273pi](https://4273pi.org/) projects getting bioinformatics into Scottish schools 
+* love community events - CERSE, EdinbR, ReproducibiliTea, R-Ladies, WomenWhoCode, Data Fest, RstudioGlobal, Turing Fest, SSI Collaborations Workshops...
+</div>
+
 
 <div class="notes"> 
 
 https://raw.githubusercontent.com/FlicAnderson/EdinbR-20210519/main/images/Me.jpg
 
 https://edcarp.github.io/ - Edinburgh Carpentries, local chapter of The Carpentries organisation (https://carpentries.org/)
+https://edcarp.github.io/Ed-DaSH/ - Ed-DaSH:  Data Science training programme for Health and Biosciences. 
+
 </div>
 
-
-
-# Outline: 
-
-## Outline: 
-
-* Who am I  
-* What I do  
-* My plans for the Fellowship 
-
-
-
-# Me!
-
-## Who am I  
-
-TODO: * edinburgh-based but aware of the need to look wider
-
-* ecology 
-* botany 
-* field work 
-* participatory workshops in sustainability projects for Afghanistan 
-* developed M&E plans for DEFRA funded sustainability projects
 
 
 
 
 ## What I do  
+
+* First-Year PhD Student at [EPCC](https://www.epcc.ed.ac.uk/), University of Edinburgh:  
+
+"Coding Smart in Academia: *the effectiveness of software engineering techniques applied to research software projects*"   
+
+* certified [Carpentries](https://carpentries.org/) instructor (delivering foundational data, software & coding courses) 
+* have given talks at [EdinbR](http://edinbr.org/) User Group & [EORC](https://edopenresearch.com/edinburghopenresearchconference/) (Edinburgh Open Research Conference)
+* volunteered recently at [RSEcon22](https://rsecon2022.society-rse.org/) (Society of Research Software Engineering annual conference) 
+* I spend my time thinking about how to improve research software, and how much of the answer might be about people... 
+
 
 
 
@@ -139,17 +176,30 @@ TODO: * edinburgh-based but aware of the need to look wider
 
 ## My plans for the Fellowship 
 
+
+3 main activities: 
+
  - Identify 
  - Connect 
  - Engage
 
 
 
-# Identify  Connect  Engage
+
+## Scottish RSE community
+
+< ScotRSE UNDER DEVELOPMENT > 
+
+* There *are* Scottish RSEs, but still not at a self-sustaining self-organising ScotRSE community... 
+  
+  ... we have lots of skilled folks, but how/when do they realise they are RSEs? 
+* How do we support people who may not have heard of Research Software Engineering or don't identify with the term? 
+* How do we ensure that good software practices and research practices are available to support the growing need?
+* We need to look wider!
 
 
 
-# Scottish RSE community - (Under development...)
+
 
 <div class="notes">
 
@@ -163,25 +213,36 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 
 </div>
 
+
+## The Importance of a Healthy Ecosystem
+
+* Complex ecosystems need solid foundations  
+* How do we ensure a healthy and self-sustaining RSE community in Scotland?  
+   ... by checking in at the grassroots! 
+   
+  **Are there sustainable networks of RSE-relevant groups and organisations for an RSE-community to rely on?**  
+  
+  Sources of:   
+  *best practices, professional knowledge, RSE skills, enthusiasm & energy!*
+
+<div class="notes">
 * I'm previously an ecologist - I know that in order to figure out whether an ecosystem is stable, you have to look closely at the different parts that make it up - particularly focusing on the foundations. Without healthy populations at the bottom of the food web, we can't have the flashy fancy apex creatures. 
 
 * In a similar way, without healthy, sustainable organisations and groups that feed into RSE skills and talent pools, and help people realise that this is a career they can choose, we won't have a healthy long-term and self-sustaining RSE community in Scotland.  
 
 * This is about checking in at the grassroots, and identifying whether strengthening the connections between groups with overlapping goals and purposes can help identify and solve the challenges they face to long-term sustainability.
-
-
-
+</div>
 
 
 
 
 # Identify
 
-## Identify
+## Map the Scottish RSEcosystem 
 
-PROBLEM: difficult to identify relevant groups which help RSEs get the skills and development they need and join local communities of best practice... 
+PROBLEM: difficult to identify relevant groups which help RSEs get the skills and development they need and join local communities of best practice... Once you find them, they might not be active.
 
-SOLUTION: fellowship will identify and map active RSE-related groups and organisations using stakeholder analysis and put together a curated list.  These groups will be invited to join the "Scottish RSEcosystem".
+SOLUTION: fellowship will identify and map active RSE-related groups and organisations using stakeholder analysis and put together a curated list of groups which are key in supporting sustainable software in research. These groups will be invited to join the "Scottish RSEcosystem Network".
 
 
 ## Identify 
@@ -264,7 +325,7 @@ The initial stakeholder analysis and engagement stage of the fellowship will run
 # Connect 
 
 
-## Connect
+## Scottish RSEcosystem Network
 
 PROBLEM: RSE-relevant groups and organisations often find it difficult to keep track of each other's organisers, or may not know about similarly oriented groups. This makes cooperation to solve common challenges difficult.
 
@@ -314,7 +375,7 @@ Determining whether the network will be dissolved, or groups wish to continue it
 # Engage
 
 
-## Engage 
+## Investigate Scottish RSEcosystem Challenges 
 
 PROBLEM: organisers of RSE-relevant groups face many challenges in keeping them running long-term. They might struggle with organiser turnover, lack of resources, difficulty in sourcing speakers, or issues relating to attendance levels. Many of these groups are likely to have faced similar challenges, but are unlikely to have had an opportunity to share and discuss these with other organisers, or to identify opportunities to work with other organisers to solve them. 
 
@@ -347,7 +408,7 @@ It is likely that not all groups who wish to take part in the network will have 
 
 Running the workshops with at least one online session would be slightly more challenging to facilitate than in-person workshops might be, but will be run as video calls using collaborative documents (such as the etherpads used by The Carpentries, or Hack.md notes pages), and Mentimeter to provide opportunities for anonymous contributions to the discussion, and easy polling/information gathering to prompt discussion. 
 
-I feel confident that I could facilitate these due to my previous experience with in-person participatory stakeholder workshops during my time working on biodiversity and sustainability workshops running in Tajikistan, leading in-person training sessions for consultancy projects while working at the Royal Botanic Gardens, and online and technical teaching and training experience as a Carpentries Instructor. 
+I feel confident that I could facilitate these due to my previous experience with in-person participatory stakeholder workshops during my time working on biodiversity and sustainability workshops running in Tajikistan, leading in-person training sessions for consultancy projects while working at the Royal Botanic Gardens, and online technical teaching and training experience as a Carpentries Instructor. I also have significant presentation experience across my research roles. 
 
 Workshops would follow a fairly open format, with a pre-circulated agenda and pre-workshop call for discussion points to give non-attending group organisers an opportunity to contribute to the discussion. 
 
@@ -374,11 +435,28 @@ This stage of the fellowship will run from months 3-13.
 
 
 
+## Workplan 
+
+
+<div style="float: centered;">
+```{r, out.width = "700"}
+knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/ssi-fellowship-application-slides/main/images/SSI_fellowship_ScottishRSEcosystemWorkplan.png?token=GHSAT0AAAAAABRDS2HFX7D23MXHGKEHSG54YZ26R3A")
+```  
+
 
 
 ## Estimated Costs 
 
 
+<div style="float: left; width: 30%;">
+```{r, out.width = "300"}
+knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/ssi-fellowship-application-slides/main/images/SSI_fellowship_ScottishRSEcosystemCosts.png?token=GHSAT0AAAAAABRDS2HFZJPHA6M3NLILZ5V6YZ26REA")
+```  
 
 
+## Scottish RSEcosystem Network: Summary  
+
+ - *__Identify__ the groups who form our communities of practice and support a developing Scottish RSE community.* Find out how these groups contribute to the wider RSE community.
+ - *__Connect__ these RSE-related groups, establishing a network of organisers for peer support*; celebrate their contributions to the communities they represent.
+ - *__Engage__ with the RSEcosystem Network to locate challenges to their long-term sustainability.* Highlight opportunities to solve these problems collaboratively, and areas where the wider RSE community can support these important groups. 
 
