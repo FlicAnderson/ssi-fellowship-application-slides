@@ -1,5 +1,5 @@
 ---
-title: "SSI Fellowship Application"
+title: "SSI Fellowship Application 2023"
 author: "Flic Anderson"
 date: "19/09/2022"
 output: 
@@ -122,6 +122,15 @@ https://edcarp.github.io/ - Edinburgh Carpentries, local chapter of The Carpentr
 
 TODO: * edinburgh-based but aware of the need to look wider
 
+* ecology 
+* botany 
+* field work 
+* participatory workshops in sustainability projects for Afghanistan 
+* developed M&E plans for DEFRA funded sustainability projects
+
+
+
+
 ## What I do  
 
 
@@ -133,6 +142,11 @@ TODO: * edinburgh-based but aware of the need to look wider
  - Identify 
  - Connect 
  - Engage
+
+
+
+# Identify  Connect  Engage
+
 
 
 # Scottish RSE community - (Under development...)
@@ -149,6 +163,14 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 
 </div>
 
+* I'm previously an ecologist - I know that in order to figure out whether an ecosystem is stable, you have to look closely at the different parts that make it up - particularly focusing on the foundations. Without healthy populations at the bottom of the food web, we can't have the flashy fancy apex creatures. 
+
+* In a similar way, without healthy, sustainable organisations and groups that feed into RSE skills and talent pools, and help people realise that this is a career they can choose, we won't have a healthy long-term and self-sustaining RSE community in Scotland.  
+
+* This is about checking in at the grassroots, and identifying whether strengthening the connections between groups with overlapping goals and purposes can help identify and solve the challenges they face to long-term sustainability.
+
+
+
 
 
 
@@ -159,7 +181,7 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 
 PROBLEM: difficult to identify relevant groups which help RSEs get the skills and development they need and join local communities of best practice... 
 
-SOLUTION: fellowship will identify active RSE-related groups and organisations and put together a curated list.  
+SOLUTION: fellowship will identify and map active RSE-related groups and organisations using stakeholder analysis and put together a curated list.  These groups will be invited to join the "Scottish RSEcosystem".
 
 
 ## Identify 
@@ -186,7 +208,9 @@ Once you find them, sometimes it's hard to tell if they're still active and runn
 
 SPECIFIC: 
 
-Identify 20+ currently active RSE-relevant groups or organisations in Scotland (including Scottish chapters / groups of larger national or international organisations or groups) which will help underpin the development of the current RSEs and will help lay the foundations for a stable Scottish RSE community of practice. 
+Identify 20+ currently active RSE-relevant groups or organisations in Scotland (including Scottish chapters / groups of larger national or international organisations or groups) using stakeholder analysis.  20 groups will be selected to participate in the fellowship project.  
+
+Identifying key groups will help underpin the development of the current RSEs and will help lay the foundations for a stable Scottish RSE community of practice.  
 
 
 MEASURABLE:
@@ -199,11 +223,15 @@ Aiming to identify at least:
  - 3 local community groups   
  - 3 'umbrella stakeholders' groups  
  
+Care will also be taken to identify any groups particularly from the North of Scotland, as cities like Aberdeen and Inverness are rarely represented - is this because they are overlooked, or because there are no relevant groups running in those areas? 
+ 
 There will likely be some overlap between categories, but this should give an achievable target and the categories will help to ensure there's a diversity of purposes and approaches represented by participating groups. 
 
 Create a curated list of these groups, collating information on their aims, links to their website or other digital organisation infrastructure (meetups page, eventbrite page, social media accounts, etc), and create this as an editable online web resource. 
 
 This curated list page could be published as an SSI blog post initially, but the information could also ultimately be linked to or sit within a Scottish RSE community website in the longer term. 
+
+Mapping these organisations in a stakeholder analysis exercise and plotting them visually according to their similarities and aims in the RSE community space will also help categorise these groups and identify shared goals and areas of difference, and this information could help RSEs determine whether these groups might be helpful for them to get involved with.  This could also contribute to the content of an SSI blog post.
 
 Contact information for each identified active group will be gathered separately (not for publication, as this information is likely to change and is also commonly available for each group), to allow me to contact the group organisers to engage with them during the fellowship. 
 
@@ -211,7 +239,7 @@ ACHIEVABLE:
 
 This is a fact finding and information collation exercise initially, and I plan to ask each contacted group organiser about other groups they'd consider to be relevant, as their networks are likely to reach groups I might not otherwise find.  
 
-I plan to search relevant / suggested group information in services like meetups.com, which is commonly used by some groups, and use twitter follower networks to identify other groups. 
+I plan to search relevant / suggested group information in services like meetups.com, which is commonly used by some groups, and use twitter follower networks to identify other groups. Library and digital research services teams at universities within Scotland are also key contacts who might be contacted to enquire whether they are aware of any relevant local groups that they may collaborate or engage with. 
 
 As part of a developing effort to establish a Scottish RSE community, I'm connected with established Scotland-based RSEs who will also be able to recommend relevant or key groups and stakeholders that I might have missed. 
 
@@ -222,7 +250,9 @@ Many groups without 'RSE' in the title are critical to the development of RSE sk
 
 TIME-BOUND: 
 
-This stage of the fellowship will run from months 1-6.  
+The initial stakeholder analysis and engagement stage of the fellowship will run from months 1-6.  
+
+
 
 </div>
 
@@ -235,13 +265,45 @@ This stage of the fellowship will run from months 1-6.
 
 
 ## Connect
-PROBLEM: 
 
-SOLUTION: 
+PROBLEM: RSE-relevant groups and organisations often find it difficult to keep track of each other's organisers, or may not know about similarly oriented groups. This makes cooperation to solve common challenges difficult.
+
+SOLUTION: fellowship will invite selected organisations and groups to become part of the "Scottish RSEcosystem" network, with a networking event run to connect group organisers and facilitate opportunities to collaborate and celebrate their contributions to their specific communities and the area of Research Software.
 
 <div class="notes">
 
-... 
+SPECIFIC: 
+
+Establish an "Scottish RSEcosystem" network, initially inviting the 20 selected groups (identified in the stakeholder analysis) to participate, and running a baseline project survey, and a networking event for 40+ organisers (~2 from each group). 
+
+
+MEASURABLE: 
+
+This would require the creation of a mailing list and/or online channel (perhaps this could take the form of a specific 'Scottish RSEcosystem' slack channel within the RSE Society workspace, as the slack workspace is available to non-members pending access requests or directly via pre-approved institutions). 
+
+A baseline fellowship project survey would be run, inviting all organisers at all selected groups to participate (offering a small gift voucher for participation in return for their time). This survey would aim to reach 25+ organisers (considering that there is likely to be more than one organiser at each participating group). 
+
+Attendance at the Scottish RSEcosystem network event will be collected, with around 40 organisers (maximum 50) invited, with 2 invites per participating member group of the network. Photos will also be taken at the event for the SSI fellowship blog updates. 
+
+An end-of-project survey run in month 15 will help confirm how useful this network has been, and gather any feedback or suggestions on how it could be improved, while ultimately whether groups wish to continue the network beyond the project life and complete a successful handover, this will be a significant marker of success.  
+
+
+ACHIEVABLE: 
+
+Ideally this network kick-off event will run in-person, however an online event could run instead using a digital format, incorporating platforms such as Gathertown or including a networking session such as RemotelyGreen, building on feedback that SSI received on use of this for past Collaborations Workshop events. 
+
+The aim is to identify towards the end of the fellowship whether participating organisations have found the network valuable, and if so, to run an election and handover process of a voluntary follow-up coordinator from amongst the network. The coordinator role is likely to change at this point, but mailing list and channel responsibilities can be handed over to the successor, to ensure the sustainability of the network. 
+
+
+RELEVANT: 
+
+The engagement with these selected groups and establishment of the RSEcosystem network will help establish a rapport between these groups. This is likely to be important in supporting ongoing cooperation between them, such as discussing potential 'joint events', or identifying opportunities to collaborate on applications for funding or other resources, or cross-publicising events run by member groups to increase awareness and attendance. 
+
+
+TIME-BOUND: 
+
+The main network-building stage of the fellowship will run from months 3-4.  
+Determining whether the network will be dissolved, or groups wish to continue it in some format will occur in month 13, with an election and handover process running from months 14 to 15. 
 
 </div>
 
@@ -259,10 +321,64 @@ PROBLEM: organisers of RSE-relevant groups face many challenges in keeping them 
 SOLUTION: fellowship will organise and facilitate a stakeholder participation workshop with group organisers to identify common problems and challenges in maintaining group stability and sustainability. 
 After reporting the findings on these challenges, a subsequent workshop session will be run to enable stakeholders to identify potential solutions - sharing how each group may have attempted to mitigate these challenges or successfully resolved them, as well as focusing on ways this could be attempted in future. 
 The report from this second workshop will collect these potential solutions, as well as highlighting any areas in which groups could work together to resolve problems.
-The findings of both workshops will be reported to all selected groups, whether or not they engaged in the participatory workshops. 
+The findings of both workshops will be reported to all selected groups, whether or not they engaged in the participatory workshops to spread best practices ideas. 
 
 <div class="notes">
 
-... 
+SPECIFIC: 
 
+
+* working with the 20 selected groups identified by the stakeholder analysis as being important for the RSE community foundations.
+* working with the group organisers (1 from each group), ideally with prompting and distribution of schedule and a collaborative document beforehand to gather any talking points from other organisers within the same group if possible who would not be attending the workshops. 
+* split into two workshops (5-10 organisers at each)
+* gather examples of best practice to share within group 
+* identify how groups promote good computational practice / RSE skills 
+
+MEASURABLE:
+
+Attendance will be recorded at each workshop, with participants being given a gift voucher for their time. (£10 per workshop, per person). 
+
+Content from these participatory stakeholder workshops will be recorded, generating two reports: "Identifying Challenges within the Scottish RSEcosystem" and "Identifying Solutions within the Scottish RSEcosystem".  
+
+
+ACHIEVABLE: 
+
+It is likely that not all groups who wish to take part in the network will have the time/opportunity to take part in the workshops, hence running both the 'Identifying Challenges' and 'Identifying Solutions' workshops twice and holding at least one of each as online workshops to encourage participation from those for whom travel would be expensive or impractical. 
+
+Running the workshops with at least one online session would be slightly more challenging to facilitate than in-person workshops might be, but will be run as video calls using collaborative documents (such as the etherpads used by The Carpentries, or Hack.md notes pages), and Mentimeter to provide opportunities for anonymous contributions to the discussion, and easy polling/information gathering to prompt discussion. 
+
+I feel confident that I could facilitate these due to my previous experience with in-person participatory stakeholder workshops during my time working on biodiversity and sustainability workshops running in Tajikistan, leading in-person training sessions for consultancy projects while working at the Royal Botanic Gardens, and online and technical teaching and training experience as a Carpentries Instructor. 
+
+Workshops would follow a fairly open format, with a pre-circulated agenda and pre-workshop call for discussion points to give non-attending group organisers an opportunity to contribute to the discussion. 
+
+It would also follow specific discussion prompts to ensure the workshop stays on-track. For the 'identifying challenges' workshop, this might include: types of organisational challenges groups are likely to face, encouraging and supporting attendee/member diversity, identifying and planning for organiser succession).
+
+The 'identifying solutions' workshop prompts would include potential solutions other groups have identified, possibilities for collaboration such as in funding applications for resources to run events, joint events, recommending potential speakers. 
+
+The report 'Identifying Challenges' would also provide key prompt material for the 'Identifying Solutions' workshop, allowing groups to collaboratively propose pragmatic and collaborative solutions to their most pressing problems.
+
+
+RELEVANT: 
+
+Responses from the workshops would be collated, and sent around the Scottish RSEcosystem Network to identify shared challenges and enable knowledge and best-practice sharing between groups. 
+
+The workshop reports would also provide an opportunity for the wider RSE-community (and perhaps specifically SSI and the Society of RSE) to look at areas in which they could help these groups to continue supporting RSEs and related work, perhaps through invitations to become members, take part in workshops or community events, or attend conferences. 
+
+
+
+TIME-BOUND: 
+
+This stage of the fellowship will run from months 3-13. 
 </div>
+
+
+
+
+
+
+## Estimated Costs 
+
+
+
+
+
