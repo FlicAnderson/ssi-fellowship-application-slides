@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <script>
     $(document).ready(function() {
-      $('slide:not(.title-slide, .backdrop, .segue)').append('<footer label=\"bit.ly/TODO"></footer>');    
+      $('slide:not(.title-slide, .backdrop, .segue)').append('<footer label=\"bit.ly/RSEcosystem"></footer>');    
     })
 </script>
 
@@ -62,45 +62,12 @@ Abstract:
 </div>
 
 
-## HOW TO (RE-)USE THIS MATERIAL
-
-This is a `.html` presentation created in `R Markdown` with `ioslides`. 
-
-(It's been written in a [.Rmd](http://rmarkdown.rstudio.com) file, and I generated .html slides by 'knitting' it in Rstudio.)
-
-You can check out the code used to make these slides at the [Talk repo](https://github.com/FlicAnderson/TODO) on Github, and adapt it for your own presentations if you like - there's a MIT Licence on the repo, which means: 
-
-*"Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source."*
-
-Source: [tl;drLegal](https://tldrlegal.com/license/mit-license)
-
-
-
 # SSI Fellowship Application 2023: 
-Scottish RSEcosystem Network
+Scottish RSEcosystem Network 
 
-
-## Outline: 
-
-* Who am I  
-* What I do  
-* My plans for the Fellowship 
-
-
+Felicity 'Flic' Anderson
 
 # About me
-
-## Who am I  
-
-TODO: * edinburgh-based but aware of the need to look wider
-
-* ecology 
-* botany 
-* field work 
-* participatory workshops in sustainability projects for Afghanistan 
-* developed M&E plans for DEFRA funded sustainability projects
-
-
 
 ## Me!
 
@@ -123,7 +90,16 @@ knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/EdinbR-2
 </div>
 
 <div class="notes"> 
-...
+
+* I've been involved in some pretty exciting research, and gotten stuck in at all stages of the research process: 
+ - grant proposal writing 
+ - project planning 
+ - facilitating workshops 
+ - running training courses
+ - disseminating research 
+ - writing reports and papers  
+ - presenting 
+ 
 </div>
 
 
@@ -138,10 +114,10 @@ knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/EdinbR-2
 </div>
 
 <div style="float: right; width: 55%;">
-* certified [Carpentries](https://carpentries.org/) instructor (delivering foundational data, software & coding courses) 
-* supervised several undergrad & masters students on open source research software ['riboviz'](https://github.com/riboviz/riboviz) project
-* outreach projects such as [4273pi](https://4273pi.org/) projects getting bioinformatics into Scottish schools 
-* love community events - CERSE, EdinbR, ReproducibiliTea, R-Ladies, WomenWhoCode, Data Fest, RstudioGlobal, Turing Fest, SSI Collaborations Workshops...
+* Certified [Carpentries](https://carpentries.org/) instructor (delivering foundational data, software & coding courses) 
+* Supervised several undergrad & masters students on ['riboviz'](https://github.com/riboviz/riboviz) research software project
+* Outreach projects such as [4273pi](https://4273pi.org/) projects getting bioinformatics into Scottish schools 
+* I <3 community events - CERSE, EdinbR, ReproducibiliTea, R-Ladies, WomenWhoCode, Data Fest, RstudioGlobal, Turing Fest, SSI Collaborations Workshops...
 </div>
 
 
@@ -160,28 +136,36 @@ https://edcarp.github.io/Ed-DaSH/ - Ed-DaSH:  Data Science training programme fo
 
 ## What I do  
 
-* First-Year PhD Student at [EPCC](https://www.epcc.ed.ac.uk/), University of Edinburgh:  
+* **First-Year PhD Student** at [EPCC](https://www.epcc.ed.ac.uk/), University of Edinburgh:  
 
 "Coding Smart in Academia: *the effectiveness of software engineering techniques applied to research software projects*"   
 
-* certified [Carpentries](https://carpentries.org/) instructor (delivering foundational data, software & coding courses) 
 * have given talks at [EdinbR](http://edinbr.org/) User Group & [EORC](https://edopenresearch.com/edinburghopenresearchconference/) (Edinburgh Open Research Conference)
 * volunteered recently at [RSEcon22](https://rsecon2022.society-rse.org/) (Society of Research Software Engineering annual conference) 
-* I spend my time thinking about how to improve research software, and how much of the answer might be about people... 
+* *I spend my time thinking about how to improve research software: a lot of the answer is about people & practice... *
 
 
 
 
 # What I Want To Do... 
 
-## My plans for the Fellowship 
+## 3-Strand Plan for the SSI Fellowship 
 
+<div style="float: left; width: 35%;">
+*Create a Scottish RSEcosystem:* 
 
-3 main activities: 
+ - **Identify** RSE-related groups
+ - **Connect** them into a network
+ - **Engage** to keep them running 
+ 
+...aiming for a *self-sustaining network* that cooperates to support its members.
+ 
+</div>
 
- - Identify 
- - Connect 
- - Engage
+<div style="float: right; width: 52%;">
+```{r, out.width = "400"}
+knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemEcosys.png")
+```
 
 
 
@@ -194,8 +178,8 @@ https://edcarp.github.io/Ed-DaSH/ - Ed-DaSH:  Data Science training programme fo
   
   ... we have lots of skilled folks, but how/when do they realise they are RSEs? 
 * How do we support people who may not have heard of Research Software Engineering or don't identify with the term? 
-* How do we ensure that good software practices and research practices are available to support the growing need?
-* We need to look wider!
+* How do we ensure that good software practices and research practices are available to support growing needs?
+* **We need to look wider!**
 
 
 
@@ -216,14 +200,14 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 
 ## The Importance of a Healthy Ecosystem
 
-* Complex ecosystems need solid foundations  
+* Complex ecosystems need solid & stable foundations  
 * How do we ensure a healthy and self-sustaining RSE community in Scotland?  
-   ... by checking in at the grassroots! 
+   ... by focusing on the grassroots! 
    
   **Are there sustainable networks of RSE-relevant groups and organisations for an RSE-community to rely on?**  
   
-  Sources of:   
-  *best practices, professional knowledge, RSE skills, enthusiasm & energy!*
+  These groups are sources of:   
+  *best practices, professional knowledge, RSE skills, talent, enthusiasm & energy!*
 
 <div class="notes">
 * I'm previously an ecologist - I know that in order to figure out whether an ecosystem is stable, you have to look closely at the different parts that make it up - particularly focusing on the foundations. Without healthy populations at the bottom of the food web, we can't have the flashy fancy apex creatures. 
@@ -238,32 +222,29 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 
 # Identify
 
-## Map the Scottish RSEcosystem 
+## Identify: Map the Scottish RSEcosystem 
 
-PROBLEM: difficult to identify relevant groups which help RSEs get the skills and development they need and join local communities of best practice... Once you find them, they might not be active.
+PROBLEM: It's often *difficult to identify relevant RSE-related groups*. 
 
-SOLUTION: fellowship will identify and map active RSE-related groups and organisations using stakeholder analysis and put together a curated list of groups which are key in supporting sustainable software in research. These groups will be invited to join the "Scottish RSEcosystem Network".
+Who are the key players in our local communities of best practice? 
+
+Sometimes hard to determine *which groups are currently active*, particularly after COVID-19.... 
+
+How do the aims and goals of these groups overlap with those of the RSE community? 
+
+Can we expect a growing community to rely on these groups when we don't know what challenges they're facing?
 
 
-## Identify 
 
-RSE-related groups and organisations who support the professional and technical 
-development of RSEs 
+## Identify: Map the Scottish RSEcosystem 
 
-This might include: 
- - user groups for software, languages or technologies (Python Users, Linux Users, Scotland Data Science & Tech, AI Scotland, Scotland Open Source Users, PyData, C++ Edinburgh, etc...) 
- - other non-tech skills (ReproducibiliTea reproducibility & open research group, Royal Statistical Society Edinburgh)
- - training focused groups (Edinburgh Carpentries, Geosciences Coding Club Edinburgh)
- - groups catering for specific underrepresented groups (Women Who Code, Queer Code Scotland, R-Ladies, Equate Scotland, the DataKirk)
- - local community groups (this might include local RSE groups based in unis (e.g St. Andrews RSEs) or specific areas (CERSE - Community of Edinburgh RSEs)) 
- - 'umbrella stakeholders' such as RSE Society and SSI. 
- (...these examples taken from personal experience, and a quick google. Not a representative selection!)
- 
+SOLUTION: *Identify 20+ currently active RSE-relevant groups in Scotland* and map (20) using **stakeholder analysis**.
 
-Finding these groups can take a lot of effort (looking on meetup.com, searching eventbrite, joining mailing lists, word of mouth recommendations from colleagues, interesting blogpost rabbit-holes, twitter posts and follower lists, meeting group representatives at conferences...).
+*Collate list of 20 groups* which are key in supporting sustainable software in research and their areas of focus. 
 
-Once you find them, sometimes it's hard to tell if they're still active and running events... 
+Publish the Scottish RSEcosystem mapping and list through SSI Fellowship blog posts and distribute through RSE community channels to *increase visibility and discovery* of these groups. 
 
+*Survey* how groups relate to the RSE community and see themselves as contributing to Scottish communities of practice. Collate this into **Scottish RSEcosystem report** at the end of the project. 
 
 <div class="notes">
 
@@ -312,8 +293,44 @@ Many groups without 'RSE' in the title are critical to the development of RSE sk
 TIME-BOUND: 
 
 The initial stakeholder analysis and engagement stage of the fellowship will run from months 1-6.  
+</div>
 
 
+
+## Identify: Map the Scottish RSEcosystem 
+
+Aiming to identify groups across the following areas of focus:    
+
+ - 5 x language/technology-specific user groups   
+ - 3 x non-tech skills (stats, research skills / communication etc.)   
+ - 3 x training    
+ - 3 x supporting under-represented groups in RSE-related areas   
+ - 3 x local community    
+ - 3 x 'umbrella stakeholders'   
+
+Care will also be taken to locate any groups from the North, Highlands and Islands of Scotland.
+
+
+<div class="notes">
+
+Cities like Aberdeen and Inverness are rarely represented in 'national' events and networks. 
+
+RSE-related groups and organisations who support the professional and technical 
+development of RSEs 
+
+This might include: 
+ - user groups for software, languages or technologies (Python Users, Linux Users, Scotland Data Science & Tech, AI Scotland, Scotland Open Source Users, PyData, C++ Edinburgh, etc...) 
+ - other non-tech skills (ReproducibiliTea reproducibility & open research group, Royal Statistical Society Edinburgh)
+ - training focused groups (Edinburgh Carpentries, Geosciences Coding Club Edinburgh)
+ - groups catering for specific underrepresented groups (Women Who Code, Queer Code Scotland, R-Ladies, Equate Scotland, the DataKirk)
+ - local community groups (this might include local RSE groups based in unis (e.g St. Andrews RSEs) or specific areas (CERSE - Community of Edinburgh RSEs)) 
+ - 'umbrella stakeholders' such as RSE Society and SSI. 
+ (...these examples taken from personal experience, and a quick google. Not a representative selection!)
+ 
+
+Finding these groups can take a lot of effort (looking on meetup.com, searching eventbrite, joining mailing lists, word of mouth recommendations from colleagues, interesting blogpost rabbit-holes, twitter posts and follower lists, meeting group representatives at conferences...).
+
+Once you find them, sometimes it's hard to tell if they're still active and running events... 
 
 </div>
 
@@ -325,11 +342,30 @@ The initial stakeholder analysis and engagement stage of the fellowship will run
 # Connect 
 
 
-## Scottish RSEcosystem Network
+## Connect: Scottish RSEcosystem Network
 
-PROBLEM: RSE-relevant groups and organisations often find it difficult to keep track of each other's organisers, or may not know about similarly oriented groups. This makes cooperation to solve common challenges difficult.
+PROBLEM: *Organisers often find it difficult to keep track of other active organisers* due to turnover, or uncertainty about whether groups are still running. This makes cooperation in solving common challenges difficult. 
 
-SOLUTION: fellowship will invite selected organisations and groups to become part of the "Scottish RSEcosystem" network, with a networking event run to connect group organisers and facilitate opportunities to collaborate and celebrate their contributions to their specific communities and the area of Research Software.
+Groups *may also not feel supported* by the wider communities they are part of, particularly as organiser roles are often voluntary or poorly reimbursed.
+
+Organisers may *not have access to peer advice*. This is especially true for new or inexperienced organisers, or those running smaller groups. 
+
+
+<div class ="note">
+may lack time, confidence or knowledge in arranging events for their group and
+</div>
+
+
+## Connect: Scottish RSEcosystem Network
+
+SOLUTION: *Invite 20 selected groups to become part of the __"Scottish RSEcosystem Network"__.* 
+
+*Run* __*networking event*__ to connect group organisers, encourage collaboration, and *celebrate* their contributions to their specific communities and research software.
+
+__*Survey*__ *the network* about their organisations, the organisers, and to begin identifying challenges and opportunities for improving sustainability of these 'community foundation' groups.
+
+If participants find the network valuable, there will be an *election and handover process* to select a successor. 
+
 
 <div class="notes">
 
@@ -364,7 +400,7 @@ The engagement with these selected groups and establishment of the RSEcosystem n
 TIME-BOUND: 
 
 The main network-building stage of the fellowship will run from months 3-4.  
-Determining whether the network will be dissolved, or groups wish to continue it in some format will occur in month 13, with an election and handover process running from months 14 to 15. 
+Determining whether the network will be dissolved, or groups wish to continue it in some format will occur in month 13, with an election and handover process running from months 14 to 15. The successor might coordinate future events or other activities decided by the network members.
 
 </div>
 
@@ -375,19 +411,25 @@ Determining whether the network will be dissolved, or groups wish to continue it
 # Engage
 
 
-## Investigate Scottish RSEcosystem Challenges 
+## Engage: Scottish RSEcosystem Challenges 
 
-PROBLEM: organisers of RSE-relevant groups face many challenges in keeping them running long-term. They might struggle with organiser turnover, lack of resources, difficulty in sourcing speakers, or issues relating to attendance levels. Many of these groups are likely to have faced similar challenges, but are unlikely to have had an opportunity to share and discuss these with other organisers, or to identify opportunities to work with other organisers to solve them. 
+PROBLEM: *Organisers of RSE-relevant groups face many challenges in keeping them running consistently, long-term.* 
 
-SOLUTION: fellowship will organise and facilitate a stakeholder participation workshop with group organisers to identify common problems and challenges in maintaining group stability and sustainability. 
-After reporting the findings on these challenges, a subsequent workshop session will be run to enable stakeholders to identify potential solutions - sharing how each group may have attempted to mitigate these challenges or successfully resolved them, as well as focusing on ways this could be attempted in future. 
-The report from this second workshop will collect these potential solutions, as well as highlighting any areas in which groups could work together to resolve problems.
-The findings of both workshops will be reported to all selected groups, whether or not they engaged in the participatory workshops to spread best practices ideas. 
+May struggle with areas like:  organiser turnover, lack of resources, sourcing speakers, or issues relating to attendance levels. 
+
+Many groups are likely to have faced similar challenges, but had *no opportunities to discuss these* with other organisers, or identify opportunities to work together to solve them. 
+
+## Engage: Scottish RSEcosystem Solutions 
+
+SOLUTION: *Engage organisers to identify common challenges to stable running through __stakeholder participation workshops__.* 
+
+Following the **'Identify Challenges'** workshop, the subsequent workshop will enable stakeholders to explore potential solutions and action plans - sharing how groups have addressed these issues, or can do so in future. 
+
+The **'Identify Solutions'** report will collect the ideas and action plans from the second workshop, and highlight any areas where groups could work together to resolve problems. This will be circulated to everyone in the Scottish RSEcosystem Network.
 
 <div class="notes">
 
 SPECIFIC: 
-
 
 * working with the 20 selected groups identified by the stakeholder analysis as being important for the RSE community foundations.
 * working with the group organisers (1 from each group), ideally with prompting and distribution of schedule and a collaborative document beforehand to gather any talking points from other organisers within the same group if possible who would not be attending the workshops. 
@@ -439,8 +481,8 @@ This stage of the fellowship will run from months 3-13.
 
 
 <div style="float: centered;">
-```{r, out.width = "700"}
-knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/ssi-fellowship-application-slides/main/images/SSI_fellowship_ScottishRSEcosystemWorkplan.png?token=GHSAT0AAAAAABRDS2HFX7D23MXHGKEHSG54YZ26R3A")
+```{r, out.width = "750"}
+knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemWorkplan.png")
 ```  
 
 
@@ -448,9 +490,9 @@ knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/ssi-fell
 ## Estimated Costs 
 
 
-<div style="float: left; width: 30%;">
-```{r, out.width = "300"}
-knitr::include_graphics("https://raw.githubusercontent.com/FlicAnderson/ssi-fellowship-application-slides/main/images/SSI_fellowship_ScottishRSEcosystemCosts.png?token=GHSAT0AAAAAABRDS2HFZJPHA6M3NLILZ5V6YZ26REA")
+<div style="float: centered">
+```{r, out.width = "650"}
+knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemCosts.png")
 ```  
 
 
