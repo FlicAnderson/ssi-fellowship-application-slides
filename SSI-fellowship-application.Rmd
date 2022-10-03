@@ -218,33 +218,25 @@ This fellowship plans to help RSE-related groups that are the foundation of our 
 </div>
 
 
+## Workplan 
 
 
-# Identify
-
-## Identify: Map the Scottish RSEcosystem 
-
-PROBLEM: It's often *difficult to identify relevant RSE-related groups*. 
-
-Who are the key players in our local communities of best practice? 
-
-Sometimes hard to determine *which groups are currently active*, particularly after COVID-19.... 
-
-How do the aims and goals of these groups overlap with those of the RSE community? 
-
-Can we expect a growing community to rely on these groups when we don't know what challenges they're facing?
+<div style="float: centered;">
+```{r, out.width = "750"}
+knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemWorkplan.png")
+```  
 
 
 
 ## Identify: Map the Scottish RSEcosystem 
 
-SOLUTION: *Identify 20+ currently active RSE-relevant groups in Scotland* and map (20) using **stakeholder analysis**.
+*Identify 20+ currently active RSE-relevant groups in Scotland* and map (20) using **stakeholder analysis**.
 
 *Collate list of 20 groups* which are key in supporting sustainable software in research and their areas of focus. 
 
-Publish the Scottish RSEcosystem mapping and list through SSI Fellowship blog posts and distribute through RSE community channels to *increase visibility and discovery* of these groups. 
+Publish the Scottish RSEcosystem mapping through SSI Fellowship blog posts and distribute through RSE community channels to *increase visibility and discovery* of these groups. 
 
-*Survey* how groups relate to the RSE community and see themselves as contributing to Scottish communities of practice. Collate this into **Scottish RSEcosystem report** at the end of the project. 
+*Survey* how groups see themselves relate to the RSE community and other communities of practice. Collate **Scottish RSEcosystem report** at the end of the project. 
 
 <div class="notes">
 
@@ -293,25 +285,6 @@ Many groups without 'RSE' in the title are critical to the development of RSE sk
 TIME-BOUND: 
 
 The initial stakeholder analysis and engagement stage of the fellowship will run from months 1-6.  
-</div>
-
-
-
-## Identify: Map the Scottish RSEcosystem 
-
-Aiming to identify groups across the following areas of focus:    
-
- - 5 x language/technology-specific user groups   
- - 3 x non-tech skills (stats, research skills / communication etc.)   
- - 3 x training    
- - 3 x supporting under-represented groups in RSE-related areas   
- - 3 x local community    
- - 3 x 'umbrella stakeholders'   
-
-Care will also be taken to locate any groups from the North, Highlands and Islands of Scotland.
-
-
-<div class="notes">
 
 Cities like Aberdeen and Inverness are rarely represented in 'national' events and networks. 
 
@@ -337,28 +310,9 @@ Once you find them, sometimes it's hard to tell if they're still active and runn
 
 
 
-
-
-# Connect 
-
-
 ## Connect: Scottish RSEcosystem Network
 
-PROBLEM: *Organisers often find it difficult to keep track of other active organisers* due to turnover, or uncertainty about whether groups are still running. This makes cooperation in solving common challenges difficult. 
-
-Groups *may also not feel supported* by the wider communities they are part of, particularly as organiser roles are often voluntary or poorly reimbursed.
-
-Organisers may *not have access to peer advice*. This is especially true for new or inexperienced organisers, or those running smaller groups. 
-
-
-<div class ="note">
-may lack time, confidence or knowledge in arranging events for their group and
-</div>
-
-
-## Connect: Scottish RSEcosystem Network
-
-SOLUTION: *Invite 20 selected groups to become part of the __"Scottish RSEcosystem Network"__.* 
+*Invite 20 selected groups to become part of the __"Scottish RSEcosystem Network"__.* 
 
 *Run* __*networking event*__ to connect group organisers, encourage collaboration, and *celebrate* their contributions to their specific communities and research software.
 
@@ -407,25 +361,17 @@ Determining whether the network will be dissolved, or groups wish to continue it
 
 
 
+## Engage: Scottish RSEcosystem Workshops 
 
-# Engage
+*Engage organisers to identify common challenges and collaborative opportunities through online __stakeholder participation workshops__.* 
 
+Two workshops will be run (using tools like Mentimeter):   
+  a) **'Identify Challenges'** - collaboratively list risks and problems    
+  b) **'Identify Solutions'** - explore solutions and action plans
+  
+Workshops will be run twice, with 5-10 participants per session (1 per group).
 
-## Engage: Scottish RSEcosystem Challenges 
-
-PROBLEM: *Organisers of RSE-relevant groups face many challenges in keeping them running consistently, long-term.* 
-
-May struggle with areas like:  organiser turnover, lack of resources, sourcing speakers, or issues relating to attendance levels. 
-
-Many groups are likely to have faced similar challenges, but had *no opportunities to discuss these* with other organisers, or identify opportunities to work together to solve them. 
-
-## Engage: Scottish RSEcosystem Solutions 
-
-SOLUTION: *Engage organisers to identify common challenges to stable running through __stakeholder participation workshops__.* 
-
-Following the **'Identify Challenges'** workshop, the subsequent workshop will enable stakeholders to explore potential solutions and action plans - sharing how groups have addressed these issues, or can do so in future. 
-
-The **'Identify Solutions'** report will collect the ideas and action plans from the second workshop, and highlight any areas where groups could work together to resolve problems. This will be circulated to everyone in the Scottish RSEcosystem Network.
+Reports will collect workshop contributions, and these will be circulated to the Scottish RSEcosystem Network.
 
 <div class="notes">
 
@@ -477,16 +423,6 @@ This stage of the fellowship will run from months 3-13.
 
 
 
-## Workplan 
-
-
-<div style="float: centered;">
-```{r, out.width = "750"}
-knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemWorkplan.png")
-```  
-
-
-
 ## Estimated Costs 
 
 
@@ -496,9 +432,5 @@ knitr::include_graphics("images/SSI_fellowship_ScottishRSEcosystemCosts.png")
 ```  
 
 
-## Scottish RSEcosystem Network: Summary  
 
- - *__Identify__ the groups who form our communities of practice and support a developing Scottish RSE community.* Find out how these groups contribute to the wider RSE community.
- - *__Connect__ these RSE-related groups, establishing a network of organisers for peer support*; celebrate their contributions to the communities they represent.
- - *__Engage__ with the RSEcosystem Network to locate challenges to their long-term sustainability.* Highlight opportunities to solve these problems collaboratively, and areas where the wider RSE community can support these important groups. 
 
